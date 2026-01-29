@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+mlops-env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+
+# Data (optional)
+data/raw/
+data/processed/
+
+# Models (optional)
+models/*.pkl
